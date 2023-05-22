@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Mañana
+ *
+ */
+module Stock {
+}
